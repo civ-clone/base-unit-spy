@@ -1,6 +1,6 @@
 {
   "name": "@civ-clone/base-unit-spy",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "The Spy class: a land unit type.",
   "repository": "git@github.com:civ-clone/base-unit-spy.git",
   "keywords": [
