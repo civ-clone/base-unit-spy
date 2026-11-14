@@ -13,7 +13,8 @@
   "files": [
     "Spy.js",
     "Spy.d.ts",
-    "Spy.js.map"
+    "Spy.js.map",
+    "Spy.ts"
   ],
   "scripts": {
     "build": "npm run ts:compile && npm run prettier:format",
